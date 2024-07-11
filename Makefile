@@ -4,7 +4,7 @@ SRC = pipex_utils.c pipex.c
 OBJ := $(SRC:%.c=%.o)
 
 CC = gcc
-CFLAGS = -Wall -Wextra -Werror -g
+CFLAGS = -Wall -Wextra -Werror
 INCLUDES = -Ilibft -Ift_printf
 
 .PHONY: all clean fclean re libft ft_printf
