@@ -8,7 +8,7 @@
 - Simulates the shell command:  
   ```bash
   < file1 cmd1 | cmd2 > file2
-##Usage
+## Usage
   ```
 make
 ./pipex file1 cmd1 cmd2 file2
