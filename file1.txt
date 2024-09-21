@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 gcjhvjkvj
 jkbjebjbwjbjwebfjwbfjkbfjbej
+=======
+this is TEST
+dsadasdasd
+TEST
+sdaasdas
+>>>>>>> master
